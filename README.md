@@ -1,16 +1,13 @@
-## Hi there 👋
+```python
+print(f'Follow {gnris} on Github')
+```
 
-<!--
-**gnris/gnris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```python
+       OS  :  windows + linux
+   Skills  :  Web Dev, Software Dev, Reverse Engineering, Scripting, Compiling
+Languages  :  JavaScript, C, C#, C++, JSON, Autohotkey, HTML/CSS, Python, Assembly, Wordpress Development
+```
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```json
+Knowledge is power, but power is nothing without control.
+```
